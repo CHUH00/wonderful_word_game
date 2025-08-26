@@ -17,7 +17,7 @@
 ---
 
 ## 🖼️ 실행 결과 화면
-<img width="1110" height="348" alt="image" src="https://github.com/user-attachments/assets/aaeffdb6-200c-43a7-9414-fa5ec23a9140" />
+
 ![전처리 전](images/start.png)
 *전처리 전*
 
